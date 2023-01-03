@@ -1,7 +1,17 @@
 # Santiago-Henrique
 <h1 align="center">Olá 👋, eu sou Santiago Henrique da Silva</h1>
 <h3 align="center">Sou um estudante de engenharia da computação na Universidade Federal Rural de Pernambuco</h3>
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 - 📫 Como falar comigo **santiagowwe336@gmail.com**
 
 <p align="left">
