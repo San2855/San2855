@@ -4,7 +4,6 @@
 
 - 📫 Como falar comigo **santiagowwe336@gmail.com**
 
-<h3 align="left">- 📫 Como falar comigo: **santiagowwe336@gmail.com**</h3>
 <p align="left">
 </p>
 
