@@ -22,7 +22,7 @@
 ### Contact:
   <div style="display: inline_block" align="center">
     <a href = "mailto:Santiagowwe336@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="[https://www.instagram.com/santiagohenrique285/](https://www.instagram.com/santiagohenrique285/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="https://www.instagram.com/santiagohenrique285" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{kxaraujo}/count.svg" /></p> 
