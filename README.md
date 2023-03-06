@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=San2855&tma&ma&theme=discord" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=San2855&layout=compact&hide_border=true&title_color=0DB50CFF&text_color=999999&bg_color=0d1117" />
 </p>
 
 ### Main skills:
