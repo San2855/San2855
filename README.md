@@ -18,8 +18,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=San2855&bg_color=000000&color=00bfbf&line=00bfbf&point=ffffff&area=true&hide_border=true)](https://github.com/San2855/github-readme-activity-graph)
-
 ### Contact:
   <div style="display: inline_block" align="center">
     <a href = "mailto:Santiagowwe336@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
